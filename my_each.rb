@@ -1,4 +1,4 @@
-=begin
+
 def my_each(collection) # put argument(s) here
   # code here
   i = 0
@@ -9,5 +9,3 @@ def my_each(collection) # put argument(s) here
   end
   collection
 end
-
-=end
